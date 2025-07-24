@@ -2,9 +2,13 @@
 
 This is a personal portfolio website showcasing my projects, skills, and experience.
 
-## Project info
+## Check the portfolio
 
+<<<<<<< HEAD
 **URL**: https://25oliver-web-portfolio.vercel.app/
+=======
+**URL**: [https://lovable.dev/projects/d57fbd75-3ee5-4e3c-ba8f-c1a22a4fd423](https://25oliver-web-portfolio.vercel.app/)
+>>>>>>> aeadd519fe9bd368765e8ec61bfc4dbb183a2fc8
 
 ## About Me
 
