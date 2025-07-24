@@ -4,7 +4,7 @@ This is a personal portfolio website showcasing my projects, skills, and experie
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/d57fbd75-3ee5-4e3c-ba8f-c1a22a4fd423
+**URL**: https://25oliver-web-portfolio.vercel.app/
 
 ## About Me
 
