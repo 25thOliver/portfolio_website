@@ -4,7 +4,6 @@ This is a personal portfolio website showcasing my projects, skills, and experie
 
 ## Check the portfolio
 
-<<<<<<< HEAD
 **URL**: https://25oliver-web-portfolio.vercel.app/
 
 
